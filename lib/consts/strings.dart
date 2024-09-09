@@ -1,0 +1,22 @@
+class AppStrings {
+  static String appname = "Medi App",
+      text = "text",
+      email = "Email",
+      emailHint = "Enter your email.....",
+      password = "Password",
+      passwordHint = "Enter your password....",
+      body = "General Physicion",
+      heart = "Cardiology",
+      ear = "ENT",
+      face = "Dermathology",
+      urology = "Urology",
+      obgyn = "Obstetrics and Gynaecology",
+      ortho = "Orthaopedics",
+      piedo = "Paediatrics",
+      category = "Category",
+      setings = "Setings",
+      chanangepassword = "Change Password",
+      termscond = "Terms & Condition",
+      signout = "SignOut",
+      doctor = "Doctor Login";
+}
